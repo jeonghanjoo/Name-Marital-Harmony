@@ -5,12 +5,12 @@ It is written on python3, and there is no interface(or wrapper) without target l
 
 ## How - To - Use
 
-1. Open the file, and rewrite the 'people' variable.
+* Open the file, and rewrite the 'people' variable.
 ``` python
 people = ['김철수', '김미영', '오유진', '김진수', '박현진', '박지성', '김연아']
 ```
 
-2. Run
+* Run
 -- following code is for printing result.
 ``` python
 for i in range(len(people)):
@@ -21,7 +21,7 @@ for i in range(len(people)):
     print()
 ```
 
-3. Result
+* Result
 
 The results are provided by n*n matrix. 
 result[i][j] is the score how people[i] likes people[j]. 
