@@ -10,6 +10,7 @@ It is written on python3, and there is no interface(or wrapper) without target l
 people = ['김철수', '김미영', '오유진', '김진수', '박현진', '박지성', '김연아']
 ```
 
+
 * Run
 -- following code is for printing result.
 ``` python
@@ -21,13 +22,16 @@ for i in range(len(people)):
     print()
 ```
 
+
+
 * Result
 
 The results are provided by n*n matrix. 
 result[i][j] is the score how people[i] likes people[j]. 
 
 
-4. Why for this code.
+
+* Why for this code.
 
 'Channel A', Korean 2nd class news channel, report Name-Marital-Harmony between the bribe-accused Korean prime minister and the ceo who accused. 
 
