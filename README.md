@@ -25,13 +25,12 @@ for i in range(len(people)):
 
 
 * Result
-
-The results are provided by n*n matrix. 
-result[i][j] is the score how people[i] likes people[j]. 
-
+ * The results are provided by n*n matrix.
+ * `result[i][j]` is the score how people[i] likes people[j]. 
 
 
-* Why for this code.
+
+## Why for this code.
 
 'Channel A', Korean 2nd class news channel, report Name-Marital-Harmony between the bribe-accused Korean prime minister and the ceo who accused. 
 
